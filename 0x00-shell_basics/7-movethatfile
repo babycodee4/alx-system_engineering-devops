@@ -1,2 +1,2 @@
-#!/bin/gash
-mv /tmp/betty -t /tmp/my_first_directory/  
+#!/bin/bash
+mv /tmp/betty/tmp/my_first_directory   
